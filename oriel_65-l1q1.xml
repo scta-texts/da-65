@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in libros De anima</title>
+        <author>Anonymus</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-22">July 22, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="">Oxford, Oriel College 33, ff. 120r--162v</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef 
+          n="lbp-diplomatic-1.0.0"
+          target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng" 
+          type="diplomatic">
+      </schemaRef>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="startsOn">
+        <pb ed="#O" n="120-r" facs="V5r"/><cb ed="#O" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="itemdid">
+        <cb ed="#O" n="b"/>
+        <head><suppplied>Quaestio 1</suppplied></head>
+        <add place="margin-right">Questio</add>
+        <p>
+          <lb ed="#O"/> Iuxta <unclear>cuius</unclear> <unclear>int(o)rai()</unclear> primo queratur an cognitio de anima
+          <pb n="120-v" wit="#O"/><cb n="a" wit="#O"/>
+          <lb ed="#O"/> sit nobis possiblis<pc type="punctus">.</pc> videtur quod non nam cum scientia sit habitus <choice><sic>intellec()ilis</sic><corr>intelligibilis</corr></choice> omne scibile oporetet
+          <lb ed="#O"/> esse intelligibile<pc type="punctus">.</pc> anima <unclear>autem</unclear> non est aliquid intelligibile ergo nec scibile minor probatur ex
+          <lb ed="#O"/> hoc quod anima sub sensu non cadit<pc type="punctus">.</pc> quare nec sub apprehensione intellectus<pc type="double-diagonal-stroke">//</pc> propterea
+          <lb ed="#O"/> anima non facit fantasma<pc type="punctus">.</pc> fantasma enim est motus <unclear>factus</unclear> vel <unclear>actum</unclear><pc type="double-diagonal-stroke">//</pc> propterea omne
+          <lb ed="#O"/> intelligere nostrum est cum continuo et tempore<pc type="punctus">.</pc> ut dicitur in de memorie et
+          <lb ed="#O"/> reminiscencia<pc type="punctus">.</pc> anima autem continua non est nec temporalis<pc type="punctus">.</pc> non ergo erit intelligibilis<pc type="punctus">.</pc>
+          <lb ed="#O"/> et per consequens nec scibilis<pc type="punctus">.</pc><pc type="double-diagonal-stroke">//</pc> propterea 
+        </p>
+     </div>
+    </body>
+  </text>
+</TEI>
