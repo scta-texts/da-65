@@ -39,7 +39,7 @@
       </schemaRef>
     </encodingDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="la" type="diplomatic">
     <front>
       <div xml:id="startsOn">
         <pb ed="#O" n="120-r" facs="V5r"/><cb ed="#O" n="a"/>
@@ -51,15 +51,100 @@
         <head><suppplied>Quaestio 1</suppplied></head>
         <add place="margin-right">Questio</add>
         <p>
-          <lb ed="#O"/> Iuxta <unclear>cuius</unclear> <unclear>int(o)rai()</unclear> primo queratur an cognitio de anima
+          <lb ed="#O"/> Iuxta <unclear>cuius</unclear> <unclear>int(o)ctum</unclear> primo queratur an cognitio de anima
           <pb n="120-v" wit="#O"/><cb n="a" wit="#O"/>
           <lb ed="#O"/> sit nobis possiblis<pc type="punctus">.</pc> videtur quod non nam cum scientia sit habitus <choice><sic>intellec()ilis</sic><corr>intelligibilis</corr></choice> omne scibile oportet
           <lb ed="#O"/> esse intelligibile<pc type="punctus">.</pc> anima <unclear>autem</unclear> non est aliquid intelligibile ergo nec scibile minor probatur ex
           <lb ed="#O"/> hoc quod anima sub sensu non cadit<pc type="punctus">.</pc> quare nec sub apprehensione intellectus<pc type="double-diagonal-stroke">//</pc> propterea
           <lb ed="#O"/> anima non facit fantasma<pc type="punctus">.</pc> fantasma enim est motus <unclear>factus</unclear> vel <unclear>actum</unclear><pc type="double-diagonal-stroke">//</pc> propterea omne
-          <lb ed="#O"/> intelligere nostrum est cum continuo et tempore<pc type="punctus">.</pc> ut dicitur in de memorie et
+          <lb ed="#O"/> intelligere nostrum est cum continuo et tempore<pc type="punctus">.</pc> ut dicitur in de memoria et
           <lb ed="#O"/> reminiscencia<pc type="punctus">.</pc> anima autem continua non est nec temporalis<pc type="punctus">.</pc> non ergo erit intelligibilis<pc type="punctus">.</pc>
-          <lb ed="#O"/> et per consequens nec scibilis<pc type="punctus">.</pc><pc type="double-diagonal-stroke">//</pc> propterea 
+          <lb ed="#O"/> et per consequens nec scibilis<pc type="punctus">.</pc><pc type="double-diagonal-stroke">//</pc> propterea philosophus secundo metaphysice dicit sicud oculus
+          <lb ed="#O"/> noctute ad lucem diei se habet sic intellect noster ad ea que
+          <lb ed="#O"/> sunt manifestissima in rerum natura de quorum numero est anima saltim
+          <lb ed="#O"/> hoc <unclear>nam na</unclear><pc type="punctus">.</pc> ergo ipsa non magis apprehendetur ab intellectu nostro
+          <lb ed="#O"/> quam lux diei ab oculo nicticoracis<pc type="punctus">.</pc> sed apprehendo
+          lu<lb ed="#O"/>cis diei ab oculo noctuce est impossibilis<pc type="punctus">.</pc> ergo sic erit ex <unclear>preces()ia</unclear>
+        </p>
+        <p>
+          <lb ed="#O"/> <pc type="double-diagonal-stroke">//</pc> propterea impossibile est idem esse movens et motum nam sic idem esset
+          <lb ed="#O"/> in actu et in potencia respectu eiusdem<pc type="punctus-medius">·</pc> quod autem cognitur ab aliquo movens
+          <lb ed="#O"/> est respectu cognoscentis igitur impossibile est idem simul esse cognitum
+          <lb ed="#O"/> et cognoscens hoc tamen contigeret si anima de seipsa scienciam
+          <lb ed="#O"/> haberet.
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad oppositum est determinacio philosophi<pc type="punctus">.</pc>
+        </p>
+        <div type="determinatio">
+          <p n="1" xml:id="65-oriel33-h5html">
+            <pc type="double-diagonal-stroke">//</pc> dicendum quod de anima <!-- ed. add scientia after quod -->
+            <lb ed="#O"/> possibilis est nobis et proprie dicta et extensive primum apparet sic
+            <lb ed="#O"/> sciencia propriissime dicta est habitus quidem intellectus per demonstracionem
+            <lb ed="#O"/> adquisitus<pc type="punctus-medius">·</pc> de quocumque igitur contingit habere demonstracionem de eodem
+            <lb ed="#O"/> et sciencia<pc type="punctus">.</pc> ad demonstracionem vero tercia sufficiunt<pc type="punctus">.</pc> subiectum passio
+            <lb ed="#O"/> et principium per quod ostendatur passio de subiecto quod quidem
+            <lb ed="#O"/> principium ab aristotelis dicitur proposicio immediata a privacione <unclear>medii</unclear>
+            <lb ed="#O"/> inter extrema<pc type="punctus">.</pc> cui nocius attribuatur predicatum<pc type="punctus">.</pc> <unclear>vel/cui</unclear> nocius subiecto
+            <lb ed="#O"/> attribuatur<pc type="punctus">.</pc> hec tria contingunt reperire circa animam<pc type="punctus">.</pc> est enim anima
+            <lb ed="#O"/> quod <unclear>est</unclear> subiectum scibile cuius sunt multe proprietates et passiones
+            <lb ed="#O"/> ut intelligere <unclear>species</unclear> et cetera<pc type="punctus">.</pc> est eciam anime alia certa <unclear>diffinicio</unclear>
+            <lb ed="#O"/> per quam ut per medium <unclear>hee</unclear> proprietates de anima possunt
+            <lb ed="#O"/> concludi<pc type="punctus">.</pc> tunc arguo cuicumque possibilis est cognicio principii <unclear>eidem</unclear>
+            <lb ed="#O"/> possibilis est eciam cognicio conclusionis<pc type="punctus-medius">·</pc> sed intellectu nostro possibilis
+            <lb ed="#O"/> est cognicio huius principii <unclear>sive</unclear> <unclear>proposicionis</unclear> inmediate qua proprietas <!-- should the qua be quia? -->
+            <lb ed="#O"/> anime attribuitur eius diffinicioni<pc type="punctus">.</pc> <unclear>illius</unclear> eciam qua diffinicio
+            <lb ed="#O"/> anime de ipsa anima <unclear>probatur</unclear><pc type="punctus">.</pc> ergo possibilis et hec conclusio qua
+            <lb ed="#O"/> passio anime de anima concluditur<pc type="punctus">.</pc> et hec est habere
+            cer<lb ed="#O"/>tam cognicionem de anima<pc type="punctus">.</pc> et sic patet primum. 
+          </p>
+          <p n="2" xml:id="65-oriel33-r02jno">
+            <pc type="double-diagonal-stroke">//</pc> secundum patet sic
+            <lb ed="#O"/> accidencia eo quod non sunt encia nisi in alio<pc type="punctus">.</pc> ipsa
+            precog<lb ed="#O"/>nita manuducunt in cognicionem eius cuius sunt<pc type="punctus">.</pc> sed multe
+            <lb ed="#O"/> sunt operaciones artificiales nobis manifeste que non possunt
+            <lb ed="#O"/> procedere nisi a potencia intellectiva<pc type="punctus">.</pc> hec enim immediate
+            flu<lb ed="#O"/>it a substancia anime<pc type="punctus">.</pc> propter quod huiusmodi operaciones nobis manifeste
+            <lb ed="#O"/> statim ducent in cognicionem anime<pc type="punctus">.</pc> sed sciencia de anima sic
+            <lb ed="#O"/> adquisita per effectus non est proprie sciencia quia ex causa
+            <lb ed="#O"/> hec procedit<pc type="punctus">.</pc>
+          </p>
+        </div>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad primum argument dicendum quod minor est <unclear>falsum</unclear><pc type="punctus">.</pc>
+          <lb ed="#O"/> et ad eius probacionem dicendum quod aliquid sub sensu cadens est dupliciter
+          <lb ed="#O"/> auter per privacionem sicud negaciones et privaciones<pc type="punctus">.</pc> ut
+          <unclear>te<lb ed="#O"/>nob()e</unclear> p. aut per posicionem sicud illa que sentiuntur per speciem
+          <lb ed="#O"/> et hoc dupliciter <unclear>quedam</unclear> enim per speciem propriam <unclear>senstiuntur</unclear><pc type="punctus">.</pc> quedam
+          <lb ed="#O"/> autem per speciem aliorum<pc type="punctus">.</pc> per propriam sicud color per propriam
+          <lb ed="#O"/> sepciem senstitur<pc type="punctus">.</pc> per alterius sicud dyarri filius<pc type="punctus">.</pc>
+          anima igitur senstitur per posicionem<pc type="punctus-medius">·</pc> sed non per sui ipsius
+          <lb ed="#O"/> speciem<pc type="punctus">.</pc> sed alterius<pc type="punctus">.</pc> et sic eciam facit fantasiam
+          <lb ed="#O"/> per hoc enim quod operaciones anime nobis manifeste <unclear>sensum</unclear>
+          <lb ed="#O"/> inmutant <unclear>sn()a</unclear> que est immediate principium huius
+          immu<lb ed="#O"/>tacionis quodam modo senstitur et sic facit fantasma
+          <lb ed="#O"/> per aliud<pc type="punctus">.</pc> et hoc sufficit ad hoc quod <unclear>intelligatur</unclear>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad
+          <lb ed="#O"/> aliud dicendum quod intelligere nostrum incipit a <unclear>conei()is</unclear> et <unclear>operillibus</unclear>
+          <pb ed="#O" n="87-v"/><cb ed="#O" n="b"/>
+          <lb ed="#O"/> sed ex eis procedit ad separata<pc type="punctus-medius">·</pc> et sic cognicio nostra
+          <lb ed="#O"/> de anima a quodam operabus procedit<pc type="punctus">.</pc> in <unclear>quo</unclear> non <unclear>distit</unclear>
+          <lb ed="#O"/> sed ulterius transit ad substanciam anime que est supra
+          <lb ed="#O"/> omne <unclear>tp()t</unclear><pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> <unclear>vel</unclear> potest dici quod non ideo dicitur intelligere nostrum
+          <lb ed="#O"/> cum continuo et tempore quia omne quod intellegimus sit continuum
+          <lb ed="#O"/> et temporale sicud racio <unclear>deminuat</unclear><pc type="punctus">.</pc> sed quia nihil intellegimus
+          <lb ed="#O"/> nisi prius existens in virtute fantasmata<pc type="punctus-medius">·</pc> fantasma autem non est
+          <lb ed="#O"/> sine continuo<pc type="punctus">.</pc> quia non sine organo<pc type="punctus">.</pc> iterum intelligere nostrum
+          <lb ed="#O"/> est discursivum et ita cum tempore<pc type="punctus">.</pc> propter quod <unclear>sn()</unclear> <unclear>habens</unclear>
+          <lb ed="#O"/> hoc intelligimus
+        </p>
+        <p>
+          
         </p>
      </div>
     </body>
