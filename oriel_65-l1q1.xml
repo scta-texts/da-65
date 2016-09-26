@@ -49,21 +49,30 @@
       <div xml:id="itemdid">
         <cb ed="#O" n="b"/>
         <head><suppplied>Quaestio 1</suppplied></head>
-        <add place="margin-right">Questio</add>
         <p>
+          <add place="margin-right">Questio</add>
           <lb ed="#O"/> Iuxta <unclear>cuius</unclear> <unclear>int(o)ctum</unclear> primo queratur an cognitio de anima
-          <lb ed="#O"/> sit nobis possiblis<pc type="punctus">.</pc> videtur quod non nam cum scientia sit habitus <choice><sic>intellec()ilis</sic><corr>intelligibilis</corr></choice> omne scibile oportet
+          <lb ed="#O"/> sit nobis possiblis<pc type="punctus">.</pc>
+        </p>
+        <p>
+          videtur quod non nam cum scientia sit habitus <choice><sic>intellec()ilis</sic><corr>intelligibilis</corr></choice> omne scibile oportet
           <lb ed="#O"/> esse intelligibile<pc type="punctus">.</pc> anima <unclear>autem</unclear> non est aliquid intelligibile ergo nec scibile minor probatur ex
           <lb ed="#O"/> hoc quod anima sub sensu non cadit<pc type="punctus">.</pc> quare nec sub apprehensione intellectus<pc type="double-diagonal-stroke">//</pc> propterea
-          <lb ed="#O"/> anima non facit fantasma<pc type="punctus">.</pc> fantasma enim est motus <unclear>factus</unclear> vel <unclear>actum</unclear><pc type="double-diagonal-stroke">//</pc> propterea omne
+          <lb ed="#O"/> anima non facit fantasma<pc type="punctus">.</pc> fantasma enim est motus <unclear>factus</unclear> vel <unclear>actum</unclear>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> propterea omne
           <lb ed="#O"/> intelligere nostrum est cum continuo et tempore<pc type="punctus">.</pc> ut dicitur in de memoria et
           <lb ed="#O"/> reminiscencia<pc type="punctus">.</pc> anima autem continua non est nec temporalis<pc type="punctus">.</pc> non ergo erit intelligibilis<pc type="punctus">.</pc>
-          <lb ed="#O"/> et per consequens nec scibilis<pc type="punctus">.</pc><pc type="double-diagonal-stroke">//</pc> propterea philosophus secundo metaphysice dicit sicud oculus
+          <lb ed="#O"/> et per consequens nec scibilis<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> propterea philosophus secundo metaphysice dicit sicud oculus
           <lb ed="#O"/> noctute ad lucem diei se habet sic intellect noster ad ea que
           <lb ed="#O"/> sunt manifestissima in rerum natura de quorum numero est anima saltim
           <lb ed="#O"/> hoc <unclear>nam na</unclear><pc type="punctus">.</pc> ergo ipsa non magis apprehendetur ab intellectu nostro
           <lb ed="#O"/> quam lux diei ab oculo nicticoracis<pc type="punctus">.</pc> sed apprehendo
-          lu<lb ed="#O"/>cis diei ab oculo noctuce est impossibilis<pc type="punctus">.</pc> ergo sic erit ex <unclear>preces()ia</unclear>
+          lu<lb ed="#O"/>cis diei ab oculo noctuce est impossibilis<pc type="punctus">.</pc> ergo sic erit ex <unclear>precedentia</unclear>
         </p>
         <p>
           <lb ed="#O"/> <pc type="double-diagonal-stroke">//</pc> propterea impossibile est idem esse movens et motum nam sic idem esset
@@ -141,9 +150,6 @@
           <lb ed="#O"/> sine continuo<pc type="punctus">.</pc> quia non sine organo<pc type="punctus">.</pc> iterum intelligere nostrum
           <lb ed="#O"/> est discursivum et ita cum tempore<pc type="punctus">.</pc> propter quod <unclear>sn()</unclear> <unclear>habens</unclear>
           <lb ed="#O"/> hoc intelligimus
-        </p>
-        <p>
-          
         </p>
      </div>
     </body>
