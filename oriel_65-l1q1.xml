@@ -32,9 +32,9 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef 
+      <schemaRef
           n="lbp-diplomatic-1.0.0"
-          target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng" 
+          target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng"
           type="diplomatic">
       </schemaRef>
     </encodingDesc>
