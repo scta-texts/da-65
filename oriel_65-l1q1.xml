@@ -51,34 +51,34 @@
         <head><suppplied>Quaestio 1</suppplied></head>
         <p>
           <add place="margin-right">Questio</add>
-          <lb ed="#O"/> Iuxta <unclear>cuius</unclear> <unclear>int(o)ctum</unclear> primo queratur an cognitio de anima
+          <lb ed="#O"/> Iuxta cuius introitum primo queratur an cognitio de anima
           <lb ed="#O"/> sit nobis possiblis<pc type="punctus">.</pc>
         </p>
         <p>
-          videtur quod non nam cum scientia sit habitus <choice><sic>intellec()ilis</sic><corr>intelligibilis</corr></choice> omne scibile oportet
+          videtur quod non nam cum scientia sit habitus <choice><sic>intellectualis</sic></choice> omne scibile oportet
           <lb ed="#O"/> esse intelligibile<pc type="punctus">.</pc> anima <unclear>autem</unclear> non est aliquid intelligibile ergo nec scibile minor probatur ex
-          <lb ed="#O"/> hoc quod anima sub sensu non cadit<pc type="punctus">.</pc> quare nec sub apprehensione intellectus<pc type="double-diagonal-stroke">//</pc> propterea
-          <lb ed="#O"/> anima non facit fantasma<pc type="punctus">.</pc> fantasma enim est motus <unclear>factus</unclear> vel <unclear>actum</unclear>
+          <lb ed="#O"/> hoc quod anima sub sensu non cadit<pc type="punctus">.</pc> quare nec sub apprehensione intellectus<pc type="double-diagonal-stroke">//</pc> preterea
+          <lb ed="#O"/> anima non facit fantasma<pc type="punctus">.</pc> fantasia enim est motus factus secundum actum
         </p>
         <p>
-          <pc type="double-diagonal-stroke">//</pc> propterea omne
+          <pc type="double-diagonal-stroke">//</pc> preterea omne
           <lb ed="#O"/> intelligere nostrum est cum continuo et tempore<pc type="punctus">.</pc> ut dicitur in de memoria et
           <lb ed="#O"/> reminiscencia<pc type="punctus">.</pc> anima autem continua non est nec temporalis<pc type="punctus">.</pc> non ergo erit intelligibilis<pc type="punctus">.</pc>
           <lb ed="#O"/> et per consequens nec scibilis<pc type="punctus">.</pc>
         </p>
         <p>
-          <pc type="double-diagonal-stroke">//</pc> propterea philosophus secundo metaphysice dicit sicud oculus
-          <lb ed="#O"/> noctute ad lucem diei se habet sic intellect noster ad ea que
+          <pc type="double-diagonal-stroke">//</pc> preterea philosophus secundo metaphysice dicit sicud oculus
+          <lb ed="#O"/> noctute<note>noctue</note> ad lucem diei se habet sic intellectus noster ad ea que
           <lb ed="#O"/> sunt manifestissima in rerum natura de quorum numero est anima saltim
-          <lb ed="#O"/> hoc <unclear>nam na</unclear><pc type="punctus">.</pc> ergo ipsa non magis apprehendetur ab intellectu nostro
-          <lb ed="#O"/> quam lux diei ab oculo nicticoracis<pc type="punctus">.</pc> sed apprehendo
-          lu<lb ed="#O"/>cis diei ab oculo noctuce est impossibilis<pc type="punctus">.</pc> ergo sic erit ex <unclear>precedentia</unclear>
+          <lb ed="#O"/> humana<pc type="punctus">.</pc> ergo ipsa non magis apprehendetur ab intellectu nostro
+          <lb ed="#O"/> quam lux diei ab oculo nicticoracis<pc type="punctus">.</pc> sed apprehensio
+          lu<lb ed="#O"/>cis diei ab oculo noctute est impossibilis<pc type="punctus">.</pc> ergo sic erit ex parte ista
         </p>
         <p>
-          <lb ed="#O"/> <pc type="double-diagonal-stroke">//</pc> propterea impossibile est idem esse movens et motum nam sic idem esset
-          <lb ed="#O"/> in actu et in potencia respectu eiusdem<pc type="punctus-medius">·</pc> quod autem cognitur ab aliquo movens
+          <lb ed="#O"/> <pc type="double-diagonal-stroke">//</pc> preterea impossibile est idem esse movens et motum nam sic idem esset
+          <lb ed="#O"/> in actu et in potencia respectu eiusdem<pc type="punctus-medius">·</pc> quod autem cognoscitur ab aliquo movens
           <lb ed="#O"/> est respectu cognoscentis igitur impossibile est idem simul esse cognitum
-          <lb ed="#O"/> et cognoscens hoc tamen contigeret si anima de seipsa scienciam
+          <lb ed="#O"/> et cognoscens hoc tamen contingeret si anima de seipsa scienciam
           <lb ed="#O"/> haberet.
         </p>
         <p>
@@ -90,19 +90,19 @@
             <lb ed="#O"/> possibilis est nobis et proprie dicta et extensive primum apparet sic
             <lb ed="#O"/> sciencia propriissime dicta est habitus quidem intellectus per demonstracionem
             <lb ed="#O"/> adquisitus<pc type="punctus-medius">·</pc> de quocumque igitur contingit habere demonstracionem de eodem
-            <lb ed="#O"/> et sciencia<pc type="punctus">.</pc> ad demonstracionem vero tercia sufficiunt<pc type="punctus">.</pc> subiectum passio
+            <lb ed="#O"/> erit sciencia<pc type="punctus">.</pc> ad demonstracionem vero tria sufficiunt<pc type="punctus">.</pc> subiectum passio
             <lb ed="#O"/> et principium per quod ostendatur passio de subiecto quod quidem
-            <lb ed="#O"/> principium ab aristotelis dicitur proposicio immediata a privacione <unclear>medii</unclear>
-            <lb ed="#O"/> inter extrema<pc type="punctus">.</pc> cui nocius attribuatur predicatum<pc type="punctus">.</pc> <unclear>vel/cui</unclear> nocius subiecto
-            <lb ed="#O"/> attribuatur<pc type="punctus">.</pc> hec tria contingunt reperire circa animam<pc type="punctus">.</pc> est enim anima
-            <lb ed="#O"/> quod <unclear>est</unclear> subiectum scibile cuius sunt multe proprietates et passiones
-            <lb ed="#O"/> ut intelligere <unclear>species</unclear> et cetera<pc type="punctus">.</pc> est eciam anime alia certa <unclear>diffinicio</unclear>
-            <lb ed="#O"/> per quam ut per medium <unclear>hee</unclear> proprietates de anima possunt
-            <lb ed="#O"/> concludi<pc type="punctus">.</pc> tunc arguo cuicumque possibilis est cognicio principii <unclear>eidem</unclear>
-            <lb ed="#O"/> possibilis est eciam cognicio conclusionis<pc type="punctus-medius">·</pc> sed intellectu nostro possibilis
-            <lb ed="#O"/> est cognicio huius principii <unclear>sive</unclear> <unclear>proposicionis</unclear> inmediate qua proprietas <!-- should the qua be quia? -->
-            <lb ed="#O"/> anime attribuitur eius diffinicioni<pc type="punctus">.</pc> <unclear>illius</unclear> eciam qua diffinicio
-            <lb ed="#O"/> anime de ipsa anima <unclear>probatur</unclear><pc type="punctus">.</pc> ergo possibilis et hec conclusio qua
+            <lb ed="#O"/> principium ab aristotele dicitur proposicio immediata a privacione medii
+            <lb ed="#O"/> inter extrema<pc type="punctus">.</pc> cui nocius attribuatur predicatum<pc type="punctus">.</pc> vel<note>?</note> nocius subiecto
+            <lb ed="#O"/> attribuatur (from atebuatur)<pc type="punctus">.</pc> hec tria contingit reperire circa animam<pc type="punctus">.</pc> est enim anima
+            <lb ed="#O"/> quodam subiectum scibile cuius sunt multe proprietates et passiones
+            <lb ed="#O"/> ut intelligere speculari et cetera<pc type="punctus">.</pc> est eciam anime alia certa diffinicio
+            <lb ed="#O"/> per quam ut per medium hee (normalize: heae) proprietates de anima possunt
+            <lb ed="#O"/> concludi<pc type="punctus">.</pc> tunc arguo cuicumque possibilis est cognicio principii eidem
+            <lb ed="#O"/> possibilis est eciam cognicio conclusionis<pc type="punctus-medius">·</pc> sed intellectui nostro possibilis
+            <lb ed="#O"/> est cognicio huius principii sive proposicionis inmediate qua proprietas <!-- should the qua be quia? -->
+            <lb ed="#O"/> anime attribuitur eius diffinicioni<pc type="punctus">.</pc> illius eciam qua diffinicio
+            <lb ed="#O"/> anime de ipsa anima predicatur<pc type="punctus">.</pc> ergo possibilis erit hec conclusio qua
             <lb ed="#O"/> passio anime de anima concluditur<pc type="punctus">.</pc> et hec est habere
             cer<lb ed="#O"/>tam cognicionem de anima<pc type="punctus">.</pc> et sic patet primum. 
           </p>
@@ -113,47 +113,68 @@
             <lb ed="#O"/> sunt operaciones artificiales nobis manifeste que non possunt
             <lb ed="#O"/> procedere nisi a potencia intellectiva<pc type="punctus">.</pc> hec enim immediate
             flu<lb ed="#O"/>it a substancia anime<pc type="punctus">.</pc> propter quod huiusmodi operaciones nobis manifeste
+<<<<<<< Updated upstream
             <lb ed="#O"/> statim ducent in cognicionem anime<pc type="punctus">.</pc> sed sciencia de anima sic
+=======
+            <lb ed="#O"/> statim ducunt in cognicionem anime<pc type="punctus">.</pc> <seg type="target" xml:id="65-oriel33-pep59x">sed sciencia de anima sic
+>>>>>>> Stashed changes
             <lb ed="#O"/> adquisita per effectus non est proprie sciencia quia ex causa
             <lb ed="#O"/> hec procedit<pc type="punctus">.</pc>
           </p>
         </div>
         <p>
-          <pc type="double-diagonal-stroke">//</pc> Ad primum argumentum dicendum quod minor est <unclear>falsum</unclear><pc type="punctus">.</pc>
-          <lb ed="#O"/> et ad eius probacionem dicendum quod aliquid sub sensu cadens est dupliciter
-          <lb ed="#O"/> auter per privacionem sicud negaciones et privaciones<pc type="punctus">.</pc> ut
-          <unclear>te<lb ed="#O"/>nob()e</unclear> p. aut per posicionem sicud illa que sentiuntur per speciem
-          <lb ed="#O"/> et hoc dupliciter <unclear>quedam</unclear> enim per speciem propriam <unclear>senstiuntur</unclear><pc type="punctus">.</pc> quedam
+          <pc type="double-diagonal-stroke">//</pc> Ad primum argumentum dicendum quod minor est falsa<pc type="punctus">.</pc>
+          <lb ed="#O"/> et ad eius probacionem dicendum quod aliquid sub sensu cadere est dupliciter
+          <lb ed="#O"/> aut per privacionem sicud negaciones et privaciones<pc type="punctus">.</pc> ut
+          <unclear>te<lb ed="#O"/>nebre</unclear> aut per posicionem sicud illa que sentiuntur per speciem
+          <lb ed="#O"/> et hoc dupliciter quedam enim per speciem propriam senstiuntur<pc type="punctus">.</pc> quedam
           <lb ed="#O"/> autem per speciem aliorum<pc type="punctus">.</pc> per propriam sicud color per propriam
-          <lb ed="#O"/> sepciem senstitur<pc type="punctus">.</pc> per alterius sicud dyarri filius<pc type="punctus">.</pc>
+          <lb ed="#O"/> speciem senstitur<pc type="punctus">.</pc> per alterius sicud dyarri filius<pc type="punctus">.</pc>
           anima igitur senstitur per posicionem<pc type="punctus-medius">·</pc> sed non per sui ipsius
           <lb ed="#O"/> speciem<pc type="punctus">.</pc> sed alterius<pc type="punctus">.</pc> et sic eciam facit fantasiam
-          <lb ed="#O"/> per hoc enim quod operaciones anime nobis manifeste <unclear>sensum</unclear>
-          <lb ed="#O"/> inmutant <unclear>sn()a</unclear> que est immediate principium huius
-          immu<lb ed="#O"/>tacionis quodam modo senstitur et sic facit fantasma
-          <lb ed="#O"/> per aliud<pc type="punctus">.</pc> et hoc sufficit ad hoc quod <unclear>intelligatur</unclear>
+          <lb ed="#O"/> per hoc enim quod operaciones anime nobis manifeste sensum
+          <lb ed="#O"/> inmutant anima que est immediate principium huius
+          immu<lb ed="#O"/>tacionis quodammodo senstitur et sic facit fantasma
+          <lb ed="#O"/> per aliud<pc type="punctus">.</pc> et hoc sufficit ad hoc quod intelligatur
         </p>
         <p>
           <pc type="double-diagonal-stroke">//</pc> Ad
-          <lb ed="#O"/> aliud dicendum quod intelligere nostrum incipit a <unclear>conei()is</unclear> et <unclear>operillibus</unclear>
+          <lb ed="#O"/> aliud dicendum quod intelligere nostrum incipit a continuis et temporalibus
           <cb ed="#O" n="b"/>
           <lb ed="#O"/> sed ex eis procedit ad separata<pc type="punctus-medius">·</pc> et sic cognicio nostra
-          <lb ed="#O"/> de anima a quodam operabus procedit<pc type="punctus">.</pc> in <unclear>quo</unclear> non <unclear>distit</unclear>
+          <lb ed="#O"/> de anima a quibusdam temporalibus procedit<pc type="punctus">.</pc> in quibus non sistit
           <lb ed="#O"/> sed ulterius transit ad substanciam anime que est supra
-          <lb ed="#O"/> omne <unclear>tp()t</unclear><pc type="punctus">.</pc>
+          <lb ed="#O"/> omne tempus<pc type="punctus">.</pc>
         </p>
         <p>
-          <pc type="double-diagonal-stroke">//</pc> <unclear>vel</unclear> potest dici quod non ideo dicitur intelligere nostrum
+          <pc type="double-diagonal-stroke">//</pc> vel potest dici quod non ideo dicitur intelligere nostrum
           <lb ed="#O"/> cum continuo et tempore quia omne quod intellegimus sit continuum
-          <lb ed="#O"/> et temporale sicud racio <unclear>deminuat</unclear><pc type="punctus">.</pc> sed quia nihil intellegimus
-          <lb ed="#O"/> nisi prius existens in virtute fantasmata<pc type="punctus-medius">·</pc> fantasma autem non est
+          <lb ed="#O"/> et temporale sicud racio deducit<pc type="punctus">.</pc> sed quia nihil intellegimus
+          <lb ed="#O"/> nisi prius existens in virtute fantastica<pc type="punctus-medius">·</pc> fantasma autem non est
           <lb ed="#O"/> sine continuo<pc type="punctus">.</pc> quia non sine organo<pc type="punctus">.</pc> iterum intelligere nostrum
-          <lb ed="#O"/> est discursivum et ita cum tempore<pc type="punctus">.</pc> propter quod <unclear>sn()</unclear> <unclear>habens</unclear>
-          <lb ed="#O"/> hoc intelligimus.
+          <lb ed="#O"/> est discursivum<note>actually discussivum</note> et ita cum tempore<pc type="punctus">.</pc> propter quod sine hiis
+          <lb ed="#O"/> non intelligimus.
         </p>
         <gap extent="16" unit="lines" reason="editorial">Temporary skip of the answer to rat. 3</gap>
         <p>
-          Ad aliud dicendum quod est  motus duplex<pc type="punctus">.</pc> quidem qui
+          <pc type="double-diagonal-stroke">//</pc> Ad aliud dicendum secundum commentatorem quod illud exemplum non
+          <lb ed="#O"/> adducitur propter impossibilitatem<pc type="punctus">.</pc> sed propter difficultatem ita ut sicud
+          <lb ed="#O"/> difficile est tali oculo inspicere lumen solis<pc type="punctus">.</pc> ita difficile
+          <lb ed="#O"/> est intellectum nostrum inspicere et cognoscere sicud est separata
+          <lb ed="#O"/> manifestum est enim quod licet oculus noctue non possit directe
+          <lb ed="#O"/> in apprehensionem solis<pc type="punctus">.</pc> poterit tamen in apprehensionem <del rend="expunctuation">tamen</del> alicuius
+          <lb ed="#O"/> effectus luminis solis<pc type="punctus">.</pc> volat enim in vesperis quod si
+          <lb ed="#O"/> oculus eius esset discussivus ab effectu ad causam lumen
+          <lb ed="#O"/> solis posset apprehendere nunc autem intellectus noster apprehendens quosdam
+          <lb ed="#O"/> effectus substantiarum separatarum discussivus est<pc type="punctus">.</pc> propter quod eis
+          cog<lb ed="#O"/>nitis surgit in cognitionem substantiarum separatarum ad
+          dis<lb ed="#O"/>cursum quoddam sed quia effectus anime humane sunt nobis
+          <lb ed="#O"/> manifestiores quam alicuius alterius substantie separate ideo
+          <lb ed="#O"/> operationes anime sunt magis adequate substantie anime<pc type="punctus">.</pc> ideo
+          <lb ed="#O"/> magis cogniscimus de anima humana quam de aliqua alia
+          <lb ed="#O"/> anima<pc type="punctus">.</pc>
+        </p>
+          quod est  motus duplex<pc type="punctus">.</pc> quidem qui
           <lb ed="#O"/> est actus entis imperfecti<pc type="punctus-medius">·</pc> et proprie dictus est<pc type="punctus-medius">·</pc> actus perfecti
           <lb ed="#O"/> sicud intelligere et speculari<pc type="punctus">.</pc> motu primo inpossibile est
           <lb ed="#O"/> idem simul movere et movens<pc type="punctus">.</pc> nisi valde per accidens
@@ -163,7 +184,7 @@
           <lb ed="#O"/> <unclear>speculatur</unclear> <unclear>ncc()a</unclear> est substantia immaterialis<pc type="punctus">.</pc> et ita aliud indivisibile<pc type="punctus">.</pc> sed
           <lb ed="#O"/> indivisibile potest reflecti supra seipsum totaliter quod
           <lb ed="#O"/> tamen impossibile est de habente partem extra partem<pc type="punctus">.</pc>
-          <lb ed="#O"/> propter quod omnis substantia <unclear>inte()us</unclear> potest se ipsam intelligere<pc type="punctus">.</pc> sed
+          <lb ed="#O"/> propter quod omnis substantia intelligens potest se ipsam intelligere<pc type="punctus">.</pc> sed
           <lb ed="#O"/> hoc est differenter<pc type="punctus">.</pc> est enim alia substantia semper actu intelligens
           <lb ed="#O"/> sicud prima causa et intelligentie<pc type="punctus">.</pc> et talis talis per se et primo
           <lb ed="#O"/> seipsam potest intelligere<pc type="punctus">.</pc> sine adiutorio alterius <unclear>est</unclear>
