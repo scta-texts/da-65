@@ -104,22 +104,24 @@
           idem simul esse cognitum et cognoscens. Hoc tamen contingeret si anima
           de seipsa scientiam haberet.
         </p>
-        <p>
+        <p type="opposita">
           Ad oppositum est determinatio <name
           ref="#Aristotle">Philosophi</name>.
         </p>
         <div type="determinatio">
-          <p n="1" xml:id="65-oriel33-h5html">
-            Dicendum quod <supplied>scientia</supplied> de anima possibilis est
-            nobis, et proprie dicta et extensive, primum apparet sic: Scientia
-            propriissime dicta est habitus quidem intellectus per
-            demonstrationem acquisitus. De quocumque igitur contingit habere
-            demonstrationem de eodem erit scientia. Ad demonstrationem vero tria
-            sufficiunt: subiectum, passio, et principium per quod ostendatur
-            passio de subiecto. Quod quidem principium ab <name
-            ref="#Aristotle">Aristotele</name> dicitur propositio immediata a
-            privatione medii inter extrema cui notius attribuatur predicatum
-            vel<note>?</note> notius subiecto
+          <p>
+            Dicendum quod <supplied>cognitio</supplied> de anima possibilis est
+            nobis, et proprie dicta et extensive.
+          </p>
+          <p type="determinatio" n="1" xml:id="65-oriel33-h5html">
+            Primum apparet sic: Scientia propriissime dicta est habitus quidem
+            intellectus per demonstrationem acquisitus. De quocumque igitur
+            contingit habere demonstrationem de eodem erit scientia. Ad
+            demonstrationem vero tria sufficiunt: subiectum, passio, et
+            principium per quod ostendatur passio de subiecto. Quod quidem
+            principium ab <name ref="#Aristotle">Aristotele</name> dicitur
+            propositio immediata a privatione medii inter extrema cui notius
+            attribuatur predicatum vel<note>?</note> notius subiecto
             <app>
               <lem>
                 attribuatur
@@ -144,7 +146,7 @@
             anima concluditur, et haec est habere certam cognitionem de anima.
             Et sic patet primum.
           </p>
-          <p n="2" xml:id="65-oriel33-r02jno">
+          <p type="determinatio" n="2" xml:id="65-oriel33-r02jno">
             Secundum patet sic: Accidentia, eo quod non sunt entia nisi in
             alio, ipsa praecognita manuducunt in cognitionem eius cuius sunt.
             Sed multae sunt operationes artificiales nobis manifestae quae non
@@ -233,11 +235,11 @@
         <p type="ad-rationes" n="4">
           Ad aliud dicendum quod est motus duplex. Quidam qui est actus entis
           imperfecti, et proprie dictus est, <note>supply "et quidam qui
-          est"</note> actus perfecti sicut intelligere et speculari. Motu primo
+          est"?</note> actus perfecti sicut intelligere et speculari. Motu primo
           impossibile est idem simul movere et moveri, nisi valde per accidens,
           ut homo movens navem etiam movetur motu eodem per accidens. Sed motu
           secundo possibile est hoc immo neccessarium, et <surplus>hoc</surplus>
-          ideo quod <note>alternative "et hoc ideo quia quod". The difference
+          ideo quod<note>alternative "et hoc ideo quia quod". The difference
           determines whether this following statement is considered a
           consequence or a cause of the possibility of the same thing being
           mover and moved.</note> movetur isto motu, ut quod intelligit aut
