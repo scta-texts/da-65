@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in libros De anima</title>
+        <author>Anonymus</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-22">July 22, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="">Oxford, Oriel College 33, ff. 120r--162v</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef
+          n="lbp-critical-1.0.0"
+          target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng"
+          type="critical">
+      </schemaRef>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="startsOn">
+        <pb ed="#O" n="120-r" facs="V5r"/><cb ed="#O" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-65-l1q1">
+        <cb ed="#O" n="b"/>
+        <head><suppplied>Quaestio 1</suppplied></head>
+        <p>
+          <add place="margin-right">Questio</add>
+          Iuxta cuius introitum primo queratur an cognitio de anima
+          sit nobis possiblis<pc type="punctus">.</pc>
+        </p>
+        <p>
+          videtur quod non nam cum scientia sit habitus intellectualis omne scibile oportet
+          esse intelligibile<pc type="punctus">.</pc> anima autem non est aliquid intelligibile ergo nec scibile minor probatur ex
+          hoc quod anima sub sensu non cadit<pc type="punctus">.</pc> quare nec sub apprehensione intellectus<pc type="double-diagonal-stroke">//</pc>
+        </p>
+        <p>
+          preterea anima non facit fantasma<pc type="punctus">.</pc> fantasia enim est motus factus secundum actum
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> preterea omne
+          intelligere nostrum est cum continuo et tempore<pc type="punctus">.</pc> ut dicitur in de memoria et
+          reminiscencia<pc type="punctus">.</pc> anima autem continua non est nec temporalis<pc type="punctus">.</pc> non ergo erit intelligibilis<pc type="punctus">.</pc>
+          et per consequens nec scibilis<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> preterea philosophus secundo metaphysice dicit sicud oculus
+          noctute<note>noctue</note> ad lucem diei se habet sic intellectus noster ad ea que
+          sunt manifestissima in rerum natura de quorum numero est anima saltim
+          humana<pc type="punctus">.</pc> ergo ipsa non magis apprehendetur ab intellectu nostro
+          quam lux diei ab oculo nicticoracis<pc type="punctus">.</pc> sed apprehensio
+          lucis diei ab oculo noctute est impossibilis<pc type="punctus">.</pc> ergo sic erit ex parte ista
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> preterea impossibile est idem esse movens et motum nam sic idem esset
+          in actu et in potencia respectu eiusdem<pc type="punctus-medius">·</pc> quod autem cognoscitur ab aliquo movens
+          est respectu cognoscentis igitur impossibile est idem simul esse cognitum
+          et cognoscens hoc tamen contingeret si anima de seipsa scienciam
+          haberet.
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad oppositum est determinacio philosophi<pc type="punctus">.</pc>
+        </p>
+        <div type="determinatio">
+          <p n="1" xml:id="65-oriel33-h5html">
+            <pc type="double-diagonal-stroke">//</pc> dicendum quod de anima <!-- ed. add scientia after quod -->
+            possibilis est nobis et proprie dicta et extensive primum apparet sic
+            sciencia propriissime dicta est habitus quidem intellectus per demonstracionem
+            adquisitus<pc type="punctus-medius">·</pc> de quocumque igitur contingit habere demonstracionem de eodem
+            erit sciencia<pc type="punctus">.</pc> ad demonstracionem vero tria sufficiunt<pc type="punctus">.</pc> subiectum passio
+            et principium per quod ostendatur passio de subiecto quod quidem
+            principium ab aristotele dicitur proposicio immediata a privacione medii
+            inter extrema<pc type="punctus">.</pc> cui nocius attribuatur predicatum<pc type="punctus">.</pc> vel<note>?</note> nocius subiecto
+            <subst><corr>attribuatur</corr><orig>atebuatur</orig></subst><pc type="punctus">.</pc> hec tria contingit reperire circa animam<pc type="punctus">.</pc> est enim anima
+            quodam subiectum scibile cuius sunt multe proprietates et passiones
+            ut intelligere speculari et cetera<pc type="punctus">.</pc> est eciam anime alia certa diffinicio
+            per quam ut per medium hee<note>normalize to heae</note> proprietates de anima possunt
+            concludi<pc type="punctus">.</pc> tunc arguo cuicumque possibilis est cognicio principii eidem
+            possibilis est eciam cognicio conclusionis<pc type="punctus-medius">·</pc> sed intellectui nostro possibilis
+            est cognicio huius principii sive proposicionis inmediate qua proprietas <!-- should the qua be quia? -->
+            anime attribuitur eius diffinicioni<pc type="punctus">.</pc> illius eciam qua diffinicio
+            anime de ipsa anima predicatur<pc type="punctus">.</pc> ergo possibilis erit hec conclusio qua
+            passio anime de anima concluditur<pc type="punctus">.</pc> et hec est habere
+            certam cognicionem de anima<pc type="punctus">.</pc> et sic patet primum.
+          </p>
+          <p n="2" xml:id="65-oriel33-r02jno">
+            <pc type="double-diagonal-stroke">//</pc> secundum patet sic
+            accidencia eo quod non sunt encia nisi in alio<pc type="punctus">.</pc> ipsa
+            precognita manuducunt in cognicionem eius cuius sunt<pc type="punctus">.</pc> sed multe
+            sunt operaciones artificiales nobis manifeste que non possunt
+            procedere nisi a potencia intellectiva<pc type="punctus">.</pc> hec enim immediate
+            fluit a substancia anime<pc type="punctus">.</pc> propter quod huiusmodi operaciones nobis manifeste
+            statim ducent in cognicionem anime<pc type="punctus">.</pc> sed sciencia de anima sic
+            adquisita per effectus non est proprie sciencia quia ex causa
+            hec procedit<pc type="punctus">.</pc>
+          </p>
+        </div>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad primum argumentum dicendum quod minor est falsa<pc type="punctus">.</pc>
+          et ad eius probacionem dicendum quod aliquid sub sensu cadere est dupliciter
+          aut per privacionem sicud negaciones et privaciones<pc type="punctus">.</pc> ut
+          tenebre aut per posicionem sicud illa que sentiuntur per speciem
+          et hoc dupliciter quedam enim per speciem propriam senstiuntur<pc type="punctus">.</pc> quedam
+          autem per speciem aliorum<pc type="punctus">.</pc> per propriam sicud color per propriam
+          speciem senstitur<pc type="punctus">.</pc> per alterius sicud dyarri filius<pc type="punctus">.</pc>
+          anima igitur senstitur per posicionem<pc type="punctus-medius">·</pc> sed non per sui ipsius
+          speciem<pc type="punctus">.</pc> sed alterius<pc type="punctus">.</pc> et sic eciam facit fantasiam
+          per hoc enim quod operaciones anime nobis manifeste sensum
+          inmutant anima que est immediate principium huius
+          immutacionis quodammodo senstitur et sic facit fantasma
+          per aliud<pc type="punctus">.</pc> et hoc sufficit ad hoc quod intelligatur
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad
+          aliud dicendum quod intelligere nostrum incipit a continuis et temporalibus
+          <cb ed="#O" n="b"/>
+          sed ex eis procedit ad separata<pc type="punctus-medius">·</pc> et sic cognicio nostra
+          de anima a quibusdam temporalibus procedit<pc type="punctus">.</pc> in quibus non sistit
+          sed ulterius transit ad substanciam anime que est supra
+          omne tempus<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> vel potest dici quod non ideo dicitur intelligere nostrum
+          cum continuo et tempore quia omne quod intellegimus sit continuum
+          et temporale sicud racio deducit<pc type="punctus">.</pc> sed quia nihil intellegimus
+          nisi prius existens in virtute fantastica<pc type="punctus-medius">·</pc> fantasma autem non est
+          sine continuo<pc type="punctus">.</pc> quia non sine organo<pc type="punctus">.</pc> iterum intelligere nostrum
+          est discursivum<note>actually discussivum</note> et ita cum tempore<pc type="punctus">.</pc> propter quod sine hiis
+          non intelligimus.
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad aliud dicendum secundum commentatorem quod illud exemplum non
+          adducitur propter impossibilitatem<pc type="punctus">.</pc> sed propter difficultatem ita ut sicud
+          difficile est tali oculo inspicere lumen solis<pc type="punctus">.</pc> ita difficile
+          est intellectum nostrum inspicere et cognoscere sicud est separata
+          manifestum est enim quod licet oculus noctue non possit directe
+          in apprehensionem solis<pc type="punctus">.</pc> poterit tamen in apprehensionem <del rend="expunctuation">tamen</del> alicuius
+          effectus luminis solis<pc type="punctus">.</pc> volat enim in vesperis quod si
+          oculus eius esset discussivus ab effectu ad causam lumen
+          solis posset apprehendere nunc autem intellectus noster apprehendens quosdam
+          effectus substantiarum separatarum discussivus est<pc type="punctus">.</pc> propter quod eis
+          cognitis surgit in cognitionem substantiarum separatarum ad
+          discursum quoddam sed quia effectus anime humane sunt nobis
+          manifestiores quam alicuius alterius substantie separate ideo
+          operationes anime sunt magis adequate substantie anime<pc type="punctus">.</pc> ideo
+          magis cogniscimus de anima humana quam de aliqua alia
+          anima<pc type="punctus">.</pc>
+        </p>
+        <p>
+          Ad aliud dicendum quod est motus duplex<pc type="punctus">.</pc> quidam qui
+          est actus entis imperfecti<pc type="punctus-medius">·</pc> et proprie dictus est<pc type="punctus-medius">·</pc> actus perfecti
+          sicud intelligere et speculari<pc type="punctus">.</pc> motu primo inpossibile est
+          idem simul movere et moveri<pc type="punctus">.</pc> nisi valde per accidens
+          ut homo movens navem etiam movetur motu eodem per
+          accidens<pc type="punctus">.</pc> sed motu secundo possibile est hoc immo neccessarium
+          et <surplus>hoc</surplus> ideo quod <note>alternative "et hoc ideo quia quod". The difference determines whether this following statement is considered a consequence or a cause of the possibility of the same thing being mover and moved.</note> movetur isto motu ut quod intelligit aut
+          speculatur neccessario est substantia immaterialis<pc type="punctus">.</pc> et ita aliquid indivisibile<pc type="punctus">.</pc> sed
+          indivisibile potest reflecti supra seipsum totaliter quod
+          tamen impossibile est de habente partem extra partem<pc type="punctus">.</pc>
+          propter quod omnis substantia intelligens potest se ipsam intelligere<pc type="punctus">.</pc> sed
+          hoc est differenter<pc type="punctus">.</pc> est enim aliqua substantia semper actu intelligens
+          sicud prima causa et intelligentie<pc type="punctus">.</pc> et talis per se et primo
+          seipsam potest intelligere<pc type="punctus">.</pc> sine adiutorio alterius est
+          autem aliqua substantia intelligens nunc in potentia nunc in actu<pc type="punctus">.</pc> et
+          quia omne tale reducitur de potentia in actum per quid
+          aliud a se<pc type="punctus-medius">·</pc> ideo ut se intelligat quid aliud
+          exigit<pc type="punctus">.</pc> huiusmodi autem est intellectus noster<pc type="punctus">.</pc> qui existens in potentia
+          ad actum intelligendi non reducitur nisi per speciem
+          alterius cum autem aliud intelligit per speciem seipsam
+          percipit intelligere et sic reflectitur supra suam
+          propriam operacionem et per consequens supra suam substantiam
+          apprehendens se esse substantiam intellectivam<pc type="punctus">.</pc> et sic anima
+          intelligit se.
+        </p>
+     </div>
+    </body>
+  </text>
+</TEI>
