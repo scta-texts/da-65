@@ -53,7 +53,7 @@
           Iuxta cuius introitum primo quaeratur an cognitio de anima sit nobis
           possiblis.
         </p>
-        <p type="rationes-principales" n="1">
+        <p xml:id="da-65-l1q1-bow4tc" type="rationes-principales" n="1">
           Videtur quod non, nam cum scientia sit habitus intellectualis, omne
           scibile oportet esse intelligibile, anima autem non est aliquid
           intelligibile, ergo nec scibile. Minor probatur ex hoc quod anima sub
@@ -61,13 +61,13 @@
           anima non facit fantasma. Fantasia enim est motus factus secundum
           actum.
         </p>
-        <p type="rationes-principales" n="2">
+        <p xml:id="da-65-l1q1-rds3ow" type="rationes-principales" n="2">
           Praeterea omne intelligere nostrum est cum continuo et tempore, ut
           dicitur in de memoria et reminiscencia; anima autem continua non est
           nec temporalis; non ergo erit intelligibilis, et per consequens nec
           scibilis.
         </p>
-        <p type="rationes-principales" n="3">
+        <p xml:id="da-65-l1q1-c905t2" type="rationes-principales" n="3">
           Praeterea <name ref="#Aristotle">Philosophus</name> secundo <title
           ref="#Arist.Metaph">Metaphysicae</title> dicit:
           <cit>
@@ -97,14 +97,14 @@
             </app>
             est impossibilis, ergo sic erit ex parte ista.
         </p>
-        <p type="rationes-principales" n="4">
+        <p xml:id="da-65-l1q1-qhzhbs" type="rationes-principales" n="4">
           Praeterea impossibile est idem esse movens et motum, nam sic idem
           esset in actu et in potentia respectu eiusdem. Quod autem cognoscitur
           ab aliquo movens est respectu cognoscentis, igitur impossibile est
           idem simul esse cognitum et cognoscens. Hoc tamen contingeret si anima
           de seipsa scientiam haberet.
         </p>
-        <p type="opposita">
+        <p xml:id="da-65-l1q1-5fsmhz" type="opposita">
           Ad oppositum est determinatio <name
           ref="#Aristotle">Philosophi</name>.
         </p>
@@ -113,7 +113,7 @@
             Dicendum quod <supplied>cognitio</supplied> de anima possibilis est
             nobis, et proprie dicta et extensive.
           </p>
-          <p type="determinatio" n="1" xml:id="65-oriel33-h5html">
+          <p type="determinatio" n="1" xml:id="da-65-oriel33-h5html">
             Primum apparet sic: Scientia propriissime dicta est habitus quidem
             intellectus per demonstrationem acquisitus. De quocumque igitur
             contingit habere demonstrationem de eodem erit scientia. Ad
@@ -146,7 +146,7 @@
             anima concluditur, et haec est habere certam cognitionem de anima.
             Et sic patet primum.
           </p>
-          <p type="determinatio" n="2" xml:id="65-oriel33-r02jno">
+          <p type="determinatio" n="2" xml:id="da-65-oriel33-r02jno">
             Secundum patet sic: Accidentia, eo quod non sunt entia nisi in
             alio, ipsa praecognita manuducunt in cognitionem eius cuius sunt.
             Sed multae sunt operationes artificiales nobis manifestae quae non
@@ -157,7 +157,7 @@
             haec procedit.
           </p>
         </div>
-        <p type="ad-rationes" n="1">
+        <p xml:id="da-65-l1q1-vufjo5" type="ad-rationes" n="1">
           Ad primum argumentum dicendum quod minor est falsa, et ad eius
           probationem dicendum quod aliquid sub sensu cadere est dupliciter: Aut
           per privationem sicut negationes et privationes, ut tenebrae, aut per
@@ -195,7 +195,7 @@
             , et ita cum tempore, propter quod sine hiis non intelligimus.
           </p>
         </div>
-        <p tyep="ad-rationes" n="3">
+        <p xml:id="da-65-l1q1-1tcvj3" tyep="ad-rationes" n="3">
           Ad aliud dicendum secundum <name ref="#Averroes">Commentatorem</name>
           quod illud exemplum non adducitur propter impossibilitatem, sed
           propter difficultatem, ita ut sicut difficile est tali oculo inspicere
@@ -232,7 +232,7 @@
           ideo operationes animae sunt magis adaequate substantiae animae. Ideo
           magis cogniscimus de anima humana quam de aliqua alia anima.
         </p>
-        <p type="ad-rationes" n="4">
+        <p xml:id="da-65-l1q1-icvbw7" type="ad-rationes" n="4">
           Ad aliud dicendum quod est motus duplex. Quidam qui est actus entis
           imperfecti, et proprie dictus est, <note>supply "et quidam qui
           est"?</note> actus perfecti sicut intelligere et speculari. Motu primo
