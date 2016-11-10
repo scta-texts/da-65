@@ -47,8 +47,12 @@
     </front>
     <body>
       <div xml:id="da-65-l1q1">
-        <head><suppplied>Quaestio 1</suppplied></head>
-        <p>
+        <head>
+          <supplied type="meta-text">
+            Quaestio 1: An cognitio de anima sit nobis possibilis
+          </supplied>
+        </head>
+        <p xml:id="da-65-l1q1-ip27r4">
           Iuxta cuius introitum primo quaeratur an cognitio de anima sit nobis
           possiblis.
         </p>
