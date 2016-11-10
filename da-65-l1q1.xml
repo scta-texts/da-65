@@ -42,12 +42,11 @@
   <text xml:lang="la" type="critical">
     <front>
       <div xml:id="startsOn">
-        <pb ed="#O" n="120-r" facs="V5r"/><cb ed="#O" n="a"/>
+        <pb ed="#O" n="120-r"/><cb ed="#O" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="da-65-l1q1">
-        <cb ed="#O" n="b"/>
         <head><suppplied>Quaestio 1</suppplied></head>
         <p>
           Iuxta cuius introitum primo quaeratur an cognitio de anima sit nobis
