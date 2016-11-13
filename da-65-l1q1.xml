@@ -155,21 +155,19 @@
             </app>
             .<note>I am not sure about the punctuation (and meaning) of this
             sentence.</note> Haec tria contingit reperire circa animam. Est enim
-            anima quodam<note>quodam / quoddam. "somehow a knowable thing" /
-            "some knowable thing"</note> subiectum scibile cuius sunt multae
-            proprietates et passiones, ut intelligere, speculari et cetera. Est
-            etiam animae alia certa definitio per quam, ut per medium, heae
-            proprietates de anima possunt concludi. Tunc arguo: Cuicumque
-            possibilis est cognitio principii, eidem possibilis est etiam
-            cognitio conclusionis. Sed intellectui nostro possibilis est
-            cognitio huius principii sive propositionis immediate qua proprietas
-            animae attribuitur eius definitioni illius etiam qua definitio
-            animae de ipsa anima predicatur.<note>I am not sure about this
-            sentence. What does <mentioned>eius definitioni illius etiam qua
-            definitio animae</mentioned> mean? Is that grammatical?</note> Ergo
-            possibilis erit haec conclusio qua passio animae de anima
-            concluditur, et haec est habere certam cognitionem de anima. Et sic
-            patet primum.
+            anima quoddam subiectum scibile cuius sunt multae proprietates et
+            passiones, ut intelligere, speculari et cetera. Est etiam animae
+            alia certa definitio per quam, ut per medium, heae proprietates de
+            anima possunt concludi. Tunc arguo: Cuicumque possibilis est
+            cognitio principii, eidem possibilis est etiam cognitio
+            conclusionis. Sed intellectui nostro possibilis est cognitio huius
+            principii sive propositionis immediate qua proprietas animae
+            attribuitur eius definitioni illius etiam qua definitio animae de
+            ipsa anima predicatur.<note>I am not sure about this sentence. What
+            does <mentioned>eius definitioni illius etiam qua definitio
+            animae</mentioned> mean? Is that grammatical?</note> Ergo possibilis
+            erit haec conclusio qua passio animae de anima concluditur, et haec
+            est habere certam cognitionem de anima. Et sic patet primum.
           </p>
           <p type="determinatio" n="2" xml:id="da-65-oriel33-r02jno">
             Secundum patet sic: Accidentia, eo quod non sunt entia nisi in
@@ -287,7 +285,7 @@
           If that was the case, it would mean the following: "That which thinks
           necessarily is an immaterial substance; hence it is necessary that the
           same thing is moving and moved in thinking." But the conclusion does
-          not follow from the premise, as it is only the case when the subject
+          not follow from the antecedent, as it is only the case when the subject
           and object of thought is the same, as is the case in
           self-reflection.</note> movetur isto motu, ut quod intelligit aut
           speculatur, neccessario est substantia immaterialis, et ita aliquid
