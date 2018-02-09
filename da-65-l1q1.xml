@@ -5,7 +5,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quaestiones in libros De anima</title>
+        <title>
+          I.1: An cognitio de anima sit nobis possibilis
+        </title>
         <author>Anonymus</author>
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
@@ -42,13 +44,13 @@
   <text xml:lang="la" type="critical">
     <front>
       <div xml:id="startsOn">
-        <pb ed="#O" n="120-r"/><cb ed="#O" n="a"/>
+        <pb ed="#O" n="120-r"/><cb ed="#O" n="b"/>
       </div>
     </front>
     <body>
       <div xml:id="da-65-l1q1">
         <head>
-          <supplied type="meta-text">
+          <supplied ana="#meta-text">
             Quaestio 1: An cognitio de anima sit nobis possibilis
           </supplied>
         </head>
@@ -83,11 +85,11 @@
           non ergo erit intelligibilis, et per consequens nec scibilis.
         </p>
         <p xml:id="da-65-l1q1-c905t2" type="rationes-principales" n="3">
-          Praeterea <ref corresp="#quote2"><name
+          Praeterea <ref corresp="#da-65-l1q1-c905t2-q2"><name
           ref="#Aristotle">Philosophus</name> secundo <title
           ref="#Arist.Metaph">Metaphysicae</title></ref> dicit:
           <cit>
-            <quote xml:id="#quote2">
+            <quote xml:id="da-65-l1q1-c905t2-q2">
               sicut oculus
               <app type="variation-spelling">
                 <lem type="conjecture-corrected">
@@ -141,7 +143,7 @@
             principium per quod ostendatur passio de subiecto. Quod quidem
             principium ab <name ref="#Aristotle">Aristotele</name> dicitur
             propositio immediata a privatione medii inter extrema cui notius
-            attribuatur predicatum <unclear>vel</unclear> notius subiecto
+            attribuatur predicatum vel notius subiecto
             <app>
               <lem>
                 attribuatur
@@ -153,16 +155,16 @@
                 </subst>
               </rdg>
             </app>
-            .<note>I am not sure about the punctuation (and meaning) of this
-            sentence.</note> Haec tria contingit reperire circa animam. Est enim
+            .<note>Possible: "attribuatur praedicato vel notius subiecto" Com.
+            t. Post.</note> Haec tria contingit reperire circa animam. Est enim
             anima quoddam subiectum scibile cuius sunt multae proprietates et
             passiones, ut intelligere, speculari et cetera. Est etiam animae
             alia certa definitio per quam, ut per medium, heae proprietates de
             anima possunt concludi. Tunc arguo: Cuicumque possibilis est
             cognitio principii, eidem possibilis est etiam cognitio
             conclusionis. Sed intellectui nostro possibilis est cognitio huius
-            principii sive propositionis immediate qua proprietas animae
-            attribuitur eius definitioni illius etiam qua definitio animae de
+            principii sive propositionis immediatae qua proprietas animae
+            attribuitur eius definitioni; illius etiam qua definitio animae de
             ipsa anima predicatur.<note>I am not sure about this sentence. What
             does <mentioned>eius definitioni illius etiam qua definitio
             animae</mentioned> mean? Is that grammatical?</note> Ergo possibilis
@@ -237,8 +239,7 @@
           quod illud exemplum non adducitur propter impossibilitatem, sed
           propter difficultatem, ita ut sicut difficile est tali oculo inspicere
           lumen solis, ita difficile est intellectum nostrum inspicere et
-          cognoscere sicut est separata.<note>Should this last
-          <mentioned>est</mentioned> be irrealis?</note> Manifestum est enim
+          cognoscere separata. Manifestum est enim
           quod licet oculus noctuae non possit directe in apprehensionem solis,
           poterit tamen in apprehensionem
           <app>
@@ -247,8 +248,7 @@
               <del rend="expunctuation">tamen</del>
             </rdg>
           </app>
-          alicuius effectus luminis solis. Volat enim in vesperis. Quod<note>Is
-          this a bit strange? <mentioned>Quare</mentioned> better?</note> si
+          alicuius effectus luminis solis. Volat enim in vesperis. Quod si
           oculus eius esset
           <app type="variation-spelling">
             <lem type="conjecture-substitution">
@@ -273,8 +273,7 @@
         </p>
         <p xml:id="da-65-l1q1-icvbw7" type="ad-rationes" n="4">
           Ad aliud dicendum quod est motus duplex. Quidam qui est actus entis
-          imperfecti, et proprie dictus est, <note>supply <mentioned>et quidam
-          qui est</mentioned>?</note> actus perfecti sicut intelligere et
+          imperfecti, et proprie dictus est actus perfecti sicut intelligere et
           speculari. Motu primo impossibile est idem simul movere et moveri,
           nisi valde per accidens, ut homo movens navem etiam movetur motu eodem
           per accidens. Sed motu secundo possibile est hoc, immo neccessarium,
