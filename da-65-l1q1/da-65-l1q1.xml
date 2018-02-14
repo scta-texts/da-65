@@ -169,11 +169,21 @@
             conclusionis. Sed intellectui nostro possibilis est cognitio huius
             principii sive propositionis immediatae qua proprietas animae
             attribuitur eius definitioni; illius etiam qua definitio animae de
-            ipsa anima predicatur.<note>I am not sure about this sentence. What
-            does <mentioned>eius definitioni illius etiam qua definitio
-            animae</mentioned> mean? Is that grammatical?</note> Ergo possibilis
-            erit haec conclusio qua passio animae de anima concluditur, et haec
-            est habere certam cognitionem de anima. Et sic patet primum.
+            ipsa anima
+            <app>
+              <lem>praedicatur</lem>
+              <rdg wit="#O">
+                <unclear>praedicatur</unclear>
+              </rdg>
+            </app>
+            <unclear><gap type="lacuna"/></unclear>
+            <note>
+              I thought about <mentioned>... eius definitioni illius, et qua
+              definitio animae de ipsa anima praedicatur.</mentioned>
+            </note>
+            ; ergo possibilis erit haec conclusio qua passio animae de anima
+            concluditur, et haec est habere certam cognitionem de anima. Et sic
+            patet primum.
           </p>
           <p type="determinatio" n="2" xml:id="da-65-oriel33-r02jno">
             Secundum patet sic: Accidentia, eo quod non sunt entia nisi in
