@@ -169,18 +169,28 @@
             conclusionis. Sed intellectui nostro possibilis est cognitio huius
             principii sive propositionis immediatae qua proprietas animae
             attribuitur eius definitioni; illius etiam qua definitio animae de
-            ipsa anima predicatur.<note>I am not sure about this sentence. What
-            does <mentioned>eius definitioni illius etiam qua definitio
-            animae</mentioned> mean? Is that grammatical?</note> Ergo possibilis
-            erit haec conclusio qua passio animae de anima concluditur, et haec
-            est habere certam cognitionem de anima. Et sic patet primum.
+            ipsa anima
+            <app>
+              <lem>praedicatur</lem>
+              <rdg wit="#O">
+                <unclear>praedicatur</unclear>
+              </rdg>
+            </app>
+            <unclear><gap type="lacuna"/></unclear>
+            <note>
+              I thought about <mentioned>... eius definitioni illius, et qua
+              definitio animae de ipsa anima praedicatur.</mentioned>
+            </note>
+            ; ergo possibilis erit haec conclusio qua passio animae de anima
+            concluditur, et haec est habere certam cognitionem de anima. Et sic
+            patet primum.
           </p>
           <p type="determinatio" n="2" xml:id="da-65-oriel33-r02jno">
             Secundum patet sic: Accidentia, eo quod non sunt entia nisi in
             alio, ipsa praecognita manuducunt in cognitionem eius cuius sunt.
             Sed multae sunt operationes artificiales nobis manifestae quae non
             possunt procedere nisi a potentia intellectiva. Haec enim immediate
-            fluit a substancia animae, propter quod huiusmodi operationes nobis
+            fluit a substantia animae, propter quod huiusmodi operationes nobis
             manifestae statim ducent in cognitionem animae. Sed scientia de anima
             sic acquisita per effectus non est proprie scientia, quia ex causa
             haec procedit.
@@ -203,7 +213,7 @@
               <lem>sentiuntur</lem>
               <rdg wit="#B">senstiuntur</rdg>
             </app>
-            , per alterius sicut <name ref="#Diares">Diarri</name> filius. Anima
+            , per alterius sicut <name ref="#Diares">Diari</name> filius. Anima
             igitur
             <app type="variation-spelling">
               <lem>sentitur</lem>
@@ -212,10 +222,10 @@
             per positionem, sed non per sui ipsius speciem, sed alterius, et sic
             etiam facit fantasiam. Per hoc enim quod operationes animae nobis
             manifestae sensum immutant, anima quae est immediate principium huius
-            immutationis quodammodo senstitur, et sic facit fantasma per aliud, et
+            immutationis quodammodo sentitur, et sic facit fantasma per aliud, et
             hoc sufficit ad hoc quod intelligatur.
           </p>
-          <div>
+          <div xml:id="da-65-l1q1-ssmjx8">
             <p>
               Ad aliud dicendum quod intelligere nostrum incipit a continuis et
               temporalibus,
@@ -278,30 +288,31 @@
           </p>
           <p xml:id="da-65-l1q1-icvbw7">
             Ad aliud dicendum quod est motus duplex. Quidam qui est actus entis
-            imperfecti, et proprie dictus est actus perfecti sicut intelligere et
-            speculari. Motu primo impossibile est idem simul movere et moveri,
-            nisi valde per accidens, ut homo movens navem etiam movetur motu eodem
-            per accidens. Sed motu secundo possibile est hoc, immo neccessarium,
-            et <surplus>hoc</surplus> ideo quod<note>alternative <mentioned>et hoc
-            ideo quia quod</mentioned>. Difference: The printed text means that
-            the "et [hoc] ..." statement is a consequence of the preceding. If
-            "quia" is inserted, it would be the cause of the preceding statement.
-            If that was the case, it would mean the following: "That which thinks
-            necessarily is an immaterial substance; hence it is necessary that the
-            same thing is moving and moved in thinking." But the conclusion does
-            not follow from the antecedent, as it is only the case when the subject
-            and object of thought is the same, as is the case in
-            self-reflection.</note> movetur isto motu, ut quod intelligit aut
-            speculatur, neccessario est substantia immaterialis, et ita aliquid
-            indivisibile. Sed indivisibile potest reflecti supra seipsum
-            totaliter, quod tamen impossibile est de habente partem extra partem,
-            propter quod omnis substantia intelligens potest seipsam intelligere.
-            Sed hoc est differenter. Est enim aliqua substantia semper actu
-            intelligens, sicut prima causa et intelligentiae, et talis per se et
-            primo seipsam potest intelligere sine adiutorio alterius. Est autem
-            aliqua substantia intelligens nunc in potentia nunc in actu, et quia
-            omne tale reducitur de potentia in actum per quid aliud a se, ideo ut
-            se intelligat quid aliud exigit. Huiusmodi autem est intellectus
+            imperfecti, et proprie dictus est actus perfecti sicut intelligere
+            et speculari. Motu primo impossibile est idem simul movere et
+            moveri, nisi valde per accidens, ut homo movens navem etiam movetur
+            motu eodem per accidens. Sed motu secundo possibile est hoc, immo
+            neccessarium, et <surplus>hoc</surplus> ideo quod<note>alternative
+            <mentioned>et hoc ideo quia quod</mentioned>. Difference: The
+            printed text means that the "et [hoc] ..." statement is a
+            consequence of the preceding. If "quia" is inserted, it would be the
+            cause of the preceding statement. If that was the case, it would
+            mean the following: "That which thinks necessarily is an immaterial
+            substance; hence it is necessary that the same thing is moving and
+            moved in thinking." But the conclusion does not follow from the
+            antecedent, as it is only the case when the subject and object of
+            thought is the same, as is the case in self-reflection.</note>
+            movetur isto motu, ut quod intelligit aut speculatur, neccessario
+            est substantia immaterialis, et ita aliquid indivisibile. Sed
+            indivisibile potest reflecti supra seipsum totaliter, quod tamen
+            impossibile est de habente partem extra partem, propter quod omnis
+            substantia intelligens potest seipsam intelligere. Sed hoc est
+            differenter. Est enim aliqua substantia semper actu intelligens,
+            sicut prima causa et intelligentiae, et talis per se et primo
+            seipsam potest intelligere sine adiutorio alterius. Est autem aliqua
+            substantia intelligens nunc in potentia nunc in actu, et quia omne
+            tale reducitur de potentia in actum per quid aliud a se, ideo ut se
+            intelligat quid aliud exigit. Huiusmodi autem est intellectus
             noster, qui existens in potentia ad actum intelligendi non reducitur
             nisi per speciem alterius. Cum autem aliud intelligit per speciem
             seipsam percipit intelligere et sic reflectitur supra suam propriam
